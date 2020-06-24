@@ -1,0 +1,19 @@
+{
+  "name": "get-multiple-entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lushijie/get-multiple-entry.git"
+  },
+  "author": "lushijie1218@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lushijie/get-multiple-entry/issues"
+  },
+  "homepage": "https://github.com/lushijie/get-multiple-entry#readme"
+}
